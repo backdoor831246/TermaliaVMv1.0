@@ -1,7 +1,7 @@
 <#
-Tweaker_Update.ps1
+installer.ps1
 Universal PowerShell Tools Downloader and Configurator
-Author: Coder + ChatGPT
+Author: dev0Rot + ChatGPT
 #>
 
 # --- Require Administrator ---
@@ -259,3 +259,4 @@ try {
 
 Log "Tweaker finished. Check log file at $LogFile"
 Write-Host "✅ Tweaker completed. Check the log at $LogFile"
+
